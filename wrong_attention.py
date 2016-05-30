@@ -1,4 +1,4 @@
-#pylint: skip-file
+
 import numpy as np
 import theano
 import theano.tensor as T
