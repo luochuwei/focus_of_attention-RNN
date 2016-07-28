@@ -1,6 +1,6 @@
 # focus_of_attention-RNN
 focus_of_attention-RNN
-![image](https://github.com/luochuwei/focus_of_attention-RNN/tree/master/code/focus%20test/FrameWork.png)
+![image](https://github.com/luochuwei/focus_of_attention-RNN/raw/master/code/focus%20test/FrameWork.png)
 
 
 
